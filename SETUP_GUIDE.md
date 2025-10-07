@@ -307,7 +307,7 @@ gunicorn app.main:app \
 
 ## License
 
-MIT License - See LICENSE file for details
+< License > - See LICENSE file for details
 
 ---
 

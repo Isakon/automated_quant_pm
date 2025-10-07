@@ -49,4 +49,4 @@ See directory tree for detailed structure.
 
 ## License
 
-MIT
+< Insert License Here >
